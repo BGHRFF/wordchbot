@@ -1,1 +1,1 @@
-worker: python3 -m on9wordchainbot
+worker: python3.9 -m on9wordchainbot
