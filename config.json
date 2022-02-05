@@ -4,8 +4,8 @@
     "DB_URI": "postgres://imungrawpsvuft:59aeb8c185dc2134e7efff71b3ef2e84370d6accfd900f0f1a4a9ab6af0f0a62@ec2-54-157-15-228.compute-1.amazonaws.com:5432/d7v5a4delankke",
     "PROVIDER_TOKEN": "",
     "OWNER_ID": 2012283888,
-    "ADMIN_GROUP_ID": -726727860,
-    "OFFICIAL_GROUP_ID": -726727860,
+    "ADMIN_GROUP_ID": -1001549747440,
+    "OFFICIAL_GROUP_ID": -1001549747440,
     "WORD_ADDITION_CHANNEL_ID": -1001484510284,
     "VIP": [],
     "VIP_GROUP": []
